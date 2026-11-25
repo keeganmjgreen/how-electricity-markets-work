@@ -9,9 +9,9 @@ author: Keegan Trujillo-Green
 >     <img src="img/pdf_fanout.png">
 >   </div>
 >   <div style="width: 75%;">
->     <a href="https://raw.githubusercontent.com/keeganmjgreen/ontario_electricity_market/main/how_electricity_markets_work.pdf">Download the PDF</a>
+>     <a href="https://raw.githubusercontent.com/keeganmjgreen/how-electricity-markets-work/main/how_electricity_markets_work.pdf">Download the PDF</a>
 >     <br>
->     <a href="https://keeganmjgreen.github.io/blog/">Read more technical, AI-free content on my blog</a>
+>     <a href="https://keegangreen.ca/">Read more technical, AI-free content on my blog</a>
 >   </div>
 > </div>
 

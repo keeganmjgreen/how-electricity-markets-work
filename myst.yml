@@ -1,6 +1,6 @@
 version: 1
 project:
-  github: keeganmjgreen/ontario_electricity_market
+  github: keeganmjgreen/how-electricity-markets-work
   toc:
     - file: 1_introduction_to_wholesale_electricity_markets.md
     - file: 2_the_supply_and_demand_of_electricity.md
