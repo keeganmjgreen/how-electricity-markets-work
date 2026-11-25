@@ -2,14 +2,14 @@ version: 1
 project:
   github: keeganmjgreen/how-electricity-markets-work
   toc:
-    - file: 1_introduction_to_wholesale_electricity_markets.md
+    - file: index.md
     - file: 2_the_supply_and_demand_of_electricity.md
     - file: 3_real_time_and_day_ahead_electricity_markets.md
   exports:
     - format: pdf
       template: ./ # plain_latex # https://github.com/myst-templates
       articles:
-        - 1_introduction_to_wholesale_electricity_markets.md
+        - index.md
         - 2_the_supply_and_demand_of_electricity.md
         - 3_real_time_and_day_ahead_electricity_markets.md
       output: how_electricity_markets_work.pdf
