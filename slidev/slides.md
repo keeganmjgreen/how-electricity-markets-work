@@ -195,7 +195,7 @@ background: img/revtlprojects-CU5vr-d98lI-unsplash-blur.jpg
 
 ## Thanks for learning with me.
 
-**Learn more** or get the PDF at: <br> [keegangreen.ca/<br>introduction-to-wholesale-electricity-markets](https://keegangreen.ca/introduction-to-wholesale-electricity-markets/)
+**Learn more** or get the PDF at: <br> [keegangreen.ca/<br>how-electricity-markets-work](https://keegangreen.ca/how-electricity-markets-work/)
 
 <img src="/img/pdf_fanout_2x.png" style="height: 200px;">
 
@@ -524,7 +524,7 @@ background: img/revtlprojects-CU5vr-d98lI-unsplash-blur.jpg
 
 ## Thanks for learning with me.
 
-**Learn more** or get the PDF at: <br> [keegangreen.ca/<br>introduction-to-wholesale-electricity-markets](https://keegangreen.ca/introduction-to-wholesale-electricity-markets/)
+**Learn more** or get the PDF at: <br> [keegangreen.ca/<br>how-electricity-markets-work](https://keegangreen.ca/how-electricity-markets-work/)
 
 <img src="/img/pdf_fanout_2x.png" style="height: 200px;">
 
@@ -740,7 +740,7 @@ background: img/revtlprojects-CU5vr-d98lI-unsplash-blur.jpg
 
 ## Thanks for learning with me.
 
-**Learn more** or get the PDF at: <br> [keegangreen.ca/<br>introduction-to-wholesale-electricity-markets](https://keegangreen.ca/introduction-to-wholesale-electricity-markets/)
+**Learn more** or get the PDF at: <br> [keegangreen.ca/<br>how-electricity-markets-work](https://keegangreen.ca/how-electricity-markets-work/)
 
 <img src="/img/pdf_fanout_2x.png" style="height: 200px;">
 
