@@ -1,5 +1,7 @@
 # The Supply and Demand of Electricity
 
++++ {"no-pdf": true}
+
 > <div style="display: flex; align-items: center;">
 >   <div style="width: 20%; padding-right: 5%;">
 >     <img src="img/pdf_fanout.png">
@@ -8,6 +10,7 @@
 >     <a href="https://raw.githubusercontent.com/keeganmjgreen/how-electricity-markets-work/main/how_electricity_markets_work.pdf">Download the PDF</a>
 >   </div>
 > </div>
+
 
 > <div style="display: flex; align-items: center;">
 >   <div style="width: 20%; padding-right: 5%;">
@@ -18,6 +21,8 @@
 >     <br>
 >   </div>
 > </div>
+
++++
 
 To understand the wholesale electricity market, one must understand the economic principles of supply and demand. To do so, let's start with a market example that is unrelated to the electricity market, but familiar and intuitive.
 
@@ -155,6 +160,8 @@ In the next section, we will see that the optimization cannot always be solved b
 
 ## The Market Network
 
++++ {"no-pdf": true}
+
 > <div style="display: flex; align-items: center;">
 >   <div style="width: 20%; padding-right: 5%;">
 >     <img src="img/video_thumbnails/part_iii.png">
@@ -164,6 +171,8 @@ In the next section, we will see that the optimization cannot always be solved b
 >     <br>
 >   </div>
 > </div>
+
++++
 
 We have established that for a given market, at a given time, there is one market price. However, the electrical grid is complex&mdash;more complex than this ({ref}`open_infra_map`). For the purposes of market modeling, the grid consists of multiple pricing locations/nodes, each of which has its own market price and in that sense acts like a market. Such a setup is called *nodal pricing* or *locational marginal pricing (LMP)*.
 

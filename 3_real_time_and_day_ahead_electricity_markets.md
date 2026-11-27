@@ -1,5 +1,7 @@
 # Real-Time and Day-Ahead Electricity Markets
 
++++ {"no-pdf": true}
+
 > <div style="display: flex; align-items: center;">
 >   <div style="width: 20%; padding-right: 5%;">
 >     <img src="img/pdf_fanout.png">
@@ -8,6 +10,8 @@
 >     <a href="https://raw.githubusercontent.com/keeganmjgreen/how-electricity-markets-work/main/how_electricity_markets_work.pdf">Download the PDF</a>
 >   </div>
 > </div>
+
++++
 
 In the previous section, we discussed how the electricity market, and thus the market clearing price, varies over time and space. At different dispatch times, there are different magnitudes of load and available generation. Additionally, the electricity market acts like many electricity markets across many spacial locations in the grid.
 
